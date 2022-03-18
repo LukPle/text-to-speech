@@ -9,7 +9,9 @@ The text-to-speech app showcases a text to speech generator using a **TextToSpee
 
 ## Features
 The program takes the text and user input of pitch and speed and creates a voice output in the selected language using all those values. 
-The app offers two different languages out of the box but other ones can be added.
+The app offers two different languages out of the box but other ones can be added. </br>
+
+![](demo_pictures/Screen1.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
